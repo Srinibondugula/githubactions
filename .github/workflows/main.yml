@@ -13,4 +13,4 @@ jobs:
       run: |
          echo "This is line1"
          echo "This is line2"
-         cat index.html
+         cat Index.html
